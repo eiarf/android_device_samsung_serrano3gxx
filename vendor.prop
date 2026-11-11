@@ -1,0 +1,7 @@
+#
+# vendor.prop for serrano3gxx
+#
+
+# RIL
+rild.libpath=/vendor/lib/libsec-ril.so
+vendor.rild.libpath=/vendor/lib/libsec-ril.so

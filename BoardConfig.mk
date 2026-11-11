@@ -38,3 +38,6 @@ TARGET_PROVIDES_LIBLIGHT := true
 
 # Charger
 BOARD_NO_CHARGER_LED := true
+
+# Vendor Properties
+TARGET_VENDOR_PROP += device/samsung/serrano3gxx/vendor.prop
